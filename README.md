@@ -361,7 +361,15 @@ Light Theme:
 -   **Component Modularity**: Single responsibility
 -   **Error Boundaries**: Graceful error handling
 
+## 📸 Screenshots
 
-```markdown
-![Dashboard Dark](./screenshots/IMG-20250808-WA0005.jpg
-```
+### Dashboard View
+![Dashboard Dark](./screenshots/IMG-20250808-WA0005.jpg)
+*Main dashboard with job statistics and overview*
+
+<!-- Add more screenshots as you capture them -->
+<!-- Example formats:
+![Job List](./screenshots/job-list.jpg)
+![Add Job Form](./screenshots/add-job-form.jpg)
+![Light Theme](./screenshots/light-theme.jpg)
+-->
