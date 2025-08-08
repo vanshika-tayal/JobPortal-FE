@@ -360,3 +360,8 @@ Light Theme:
 -   **CSS Variables**: Maintainable styling
 -   **Component Modularity**: Single responsibility
 -   **Error Boundaries**: Graceful error handling
+
+
+```markdown
+![Dashboard Dark](./screenshots/IMG-20250808-WA0005.jpg
+```
