@@ -79,7 +79,7 @@ A modern, responsive Job Portal application built with React and TypeScript, fea
 
 -   Node.js (v14 or higher)
 -   npm or yarn package manager
--   Backend server running on port 5010
+-   Backend server running on port 5000
 
 ## 🚀 Installation
 
@@ -113,7 +113,7 @@ http://localhost:3000
 Create a `.env` file in the root directory:
 
 ```env
-VITE_API_URL=http://localhost:5010/api
+VITE_API_URL=http://localhost:5000/api
 ```
 
 ## 📁 Project Structure
