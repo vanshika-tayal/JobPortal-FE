@@ -363,13 +363,98 @@ Light Theme:
 
 ## 📸 Screenshots
 
-### Dashboard View
-![Dashboard Dark](./screenshots/IMG-20250808-WA0005.jpg)
-*Main dashboard with job statistics and overview*
+### 🌙 Dark Theme
 
-<!-- Add more screenshots as you capture them -->
-<!-- Example formats:
-![Job List](./screenshots/job-list.jpg)
-![Add Job Form](./screenshots/add-job-form.jpg)
-![Light Theme](./screenshots/light-theme.jpg)
--->
+<table>
+  <tr>
+    <td align="center">
+      <img src="./screenshots/dark/dashboard-dark.jpg" alt="Dashboard Dark" width="400" height="250">
+      <br />
+      <sub><b>Dashboard Overview</b></sub>
+    </td>
+    <td align="center">
+      <img src="./screenshots/dark/view-job-dark.jpg" alt="Job Listings Dark" width="400" height="250">
+      <br />
+      <sub><b>Job Listings Grid</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./screenshots/dark/list-job-dark.jpg" alt="List View Dark" width="400" height="250">
+      <br />
+      <sub><b>List View</b></sub>
+    </td>
+    <td align="center">
+      <img src="./screenshots/dark/add-job-dark.jpg" alt="Add Job Dark" width="400" height="250">
+      <br />
+      <sub><b>Add New Job</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./screenshots/dark/edit-job-dark.jpg" alt="Edit Job Dark" width="400" height="250">
+      <br />
+      <sub><b>Edit Job Details</b></sub>
+    </td>
+    <td align="center">
+      <img src="./screenshots/dark/search-job-dark.jpg" alt="Search Jobs Dark" width="400" height="250">
+      <br />
+      <sub><b>Search & Filter</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="./screenshots/dark/delete-popup-dark.jpg" alt="Delete Confirmation Dark" width="400" height="250">
+      <br />
+      <sub><b>Delete Confirmation Dialog</b></sub>
+    </td>
+  </tr>
+</table>
+
+### ☀️ Light Theme
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="./screenshots/light/dashboard-light.jpg" alt="Dashboard Light" width="400" height="250">
+      <br />
+      <sub><b>Dashboard Overview</b></sub>
+    </td>
+    <td align="center">
+      <img src="./screenshots/light/view-job-light.jpg" alt="Job Listings Light" width="400" height="250">
+      <br />
+      <sub><b>Job Listings Grid</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./screenshots/light/list-job-light.jpg" alt="List View Light" width="400" height="250">
+      <br />
+      <sub><b>List View</b></sub>
+    </td>
+    <td align="center">
+      <img src="./screenshots/light/add-job-light.jpg" alt="Add Job Light" width="400" height="250">
+      <br />
+      <sub><b>Add New Job</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./screenshots/light/edit-job-light.jpg" alt="Edit Job Light" width="400" height="250">
+      <br />
+      <sub><b>Edit Job Details</b></sub>
+    </td>
+    <td align="center">
+      <img src="./screenshots/light/search-job-light.jpg" alt="Search Jobs Light" width="400" height="250">
+      <br />
+      <sub><b>Search & Filter</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="./screenshots/light/delete-popup-light.jpg" alt="Delete Confirmation Light" width="400" height="250">
+      <br />
+      <sub><b>Delete Confirmation Dialog</b></sub>
+    </td>
+  </tr>
+</table>
